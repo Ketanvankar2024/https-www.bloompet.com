@@ -1,2 +1,2 @@
-# https-www.bloompet.com
-bloompet.com
+# https-www.bloompetshop.com
+bloompetshop.com
